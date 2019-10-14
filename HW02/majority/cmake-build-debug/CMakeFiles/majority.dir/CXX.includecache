@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW02/majority/hw02-majority.cpp
+iostream
+-
+vector
+-
+fstream
+-
+algorithm
+-
+

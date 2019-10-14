@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW02/maxvalue/hw02-maxvalue.cpp
+vector
+-
+iostream
+-
+fstream
+-
+

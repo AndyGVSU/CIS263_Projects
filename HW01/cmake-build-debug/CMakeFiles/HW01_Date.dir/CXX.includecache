@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW01/HW01-Date/SimpleDate.cpp
+SimpleDate.h
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW01/HW01-Date/SimpleDate.h
+stdexcept
+-
+
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW01/HW01-Date/SimpleDate.h
+
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW01/HW01-Date/hw01-date.cpp
+iostream
+-
+SimpleDate.h
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW01/HW01-Date/SimpleDate.h
+

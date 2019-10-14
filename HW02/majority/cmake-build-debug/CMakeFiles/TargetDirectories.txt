@@ -1,0 +1,3 @@
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW02/majority/cmake-build-debug/CMakeFiles/majority.dir
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW02/majority/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andy/Desktop/College/CIS 263 - Dulimarta/HW02/majority/cmake-build-debug/CMakeFiles/rebuild_cache.dir
